@@ -1,0 +1,10 @@
+name: PartyCube
+version: 1.0.0
+api: 5.0.0
+main: rayveeu\partycube\PartyCube
+depend:
+  - Essentials
+
+permissions:
+  command.helpsetup.use:
+    default: op
